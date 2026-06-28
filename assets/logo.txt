@@ -1,0 +1,7 @@
+=========================================================
+                BOGELSHELL PROTECT
+        Bash Script Encrypt & Decrypt Utility
+=========================================================
+
+Version : 2.0
+Author  : Bogel Project
